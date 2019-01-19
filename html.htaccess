@@ -1,0 +1,4 @@
+AuthName "Ansible"
+AuthUserFile /var/www/html/protected/.htpasswd 
+AuthType Basic
+require valid-user
